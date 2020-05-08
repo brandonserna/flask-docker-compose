@@ -15,3 +15,7 @@ View
 #### Stop
 
 ```docker-compose stop```
+
+#### Cleaning
+
+```docker-compose rm -v postgres```
